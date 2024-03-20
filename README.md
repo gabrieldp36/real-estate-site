@@ -1,8 +1,8 @@
 
 
-# Real State Site.
+# Real Estate Site.
 
-El presente proyecto se trata de la maquetación de la página de inicio de un sitio enfocado al Real State.
+El presente proyecto se trata de la maquetación de la página de inicio de un sitio enfocado al Real Estate.
 
 El mismo fue desarrollado siguiendo las mejores prácticas de html, css y los principios del Responsive Web Design, aplicando el enfoque Mobile First. Por lo tanto, estamos en presencia de un sitio web el cual se adapta perfectamente a celulares, tablets o desktops.
 

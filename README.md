@@ -1,4 +1,4 @@
-
+![portada](https://github.com/gabrieldp36/real-estate-site/assets/88417383/ddc8a039-c68b-4806-bb54-b8bda342a637)
 
 # Real Estate Site.
 
@@ -13,5 +13,5 @@ Se incorporó gestión de formatos de imágenes (avif, webp y jpg) en base a la 
 Para visitar la web pueden hacer click en el siguiente link:
 
 ```
-
+https://real-estate-gdp.netlify.app
 ```
